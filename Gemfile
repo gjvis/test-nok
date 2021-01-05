@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-gem "nokogiri", ">= 1.5.4"
+gem "nokogiri", ">= 1.11.0"
